@@ -1,0 +1,2 @@
+Thumbnail File Deleter
+=========
