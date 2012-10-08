@@ -7,5 +7,6 @@
     <string name="activate">Activate the reminder</string>
     <string name="activate_alert">Press the button to activate monthly based reminder!</string>
     <string name="del_alert">Press the button to delete thumbnails!</string>
+    <string name="recover">Press to recover thumbnails!</string>
 
 </resources>
