@@ -1,12 +1,12 @@
 <resources>
 
-    <string name="app_name">Thumbnail file deleter</string>
-    <string name="del">Delete thumbnails!</string>
-    <string name="credits">Credits</string>
-    <string name="title_activity_main">Thumbnail File Deleter</string>
-    <string name="activate">Activate the reminder</string>
-    <string name="activate_alert">Press the button to activate monthly based reminder!</string>
-    <string name="del_alert">Press the button to delete thumbnails!</string>
-    <string name="recover">Press to recover thumbnails!</string>
+    <string name="app_name">ဓာတ္ပံု ပံုၾကမ္းမ်ားရွင္းလင္းေရး</string>
+    <string name="del">ပံုၾကမ္းမ်ားဖ်က္မယ္!</string>
+    <string name="credits">မႈရင္း ေရးဆြဲသူ</string>
+    <string name="title_activity_main">ဓာတ္ပံု ပံုၾကမ္းမ်ားရွင္းလင္းေရး</string>
+    <string name="activate">အခ်ိန္ နဲ႕ ဖ်က္မယ္</string>
+    <string name="activate_alert">လစဥ္ ပံုၾကမ္းမ်ားဖ်က္ရန္ ႏွိပ္ပါ!</string>
+    <string name="del_alert">ပံုၾကမ္းမ်ားဖ်က္ရန္ ႏွိပ္ပါ!</string>
+    <string name="recover">ဖ်က္လိုက္ေသာ ပံုၾကမ္းမ်ား ျပန္ေခၚရန္ ႏွိပ္ပါ!</string>
 
 </resources>
